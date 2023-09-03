@@ -7,7 +7,7 @@ This assignment, titled "Shape Modelling," focuses on creating a sphere using it
 ## Assignment Details
 
 - The assignment description and requirements can be found in [assignment01.pdf](https://github.com/IshanMehta115/Computer-Graphics/blob/main/Assignment-01%20Shape%20modelling/Assignment01.pdf).
-- The detailed report of our implementation and findings can be accessed in [report.pdf](https://github.com/IshanMehta115/Computer-Graphics/blob/main/Assignment-01%20Shape%20modelling/Report.pdf).
+- The detailed report of my implementation and findings can be accessed in [report.pdf](https://github.com/IshanMehta115/Computer-Graphics/blob/main/Assignment-01%20Shape%20modelling/Report.pdf).
 
 ## Sphere Generation
 
